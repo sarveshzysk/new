@@ -1,3 +1,3 @@
-let a1=1
+let a2=1
 
-console.log(a1);
+console.log(a2);
