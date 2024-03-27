@@ -1,3 +1,3 @@
-let a2=1
+var sear = "hello"
 
-console.log(a2);
+console.log(a1);
